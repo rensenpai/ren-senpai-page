@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ren Senpai's Personal Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: black;
+      color: white;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 800px;
+      margin: 50px auto;
+      text-align: center;
+    }
+    h1 {
+      color: purple;
+    }
+    p {
+      font-size: 18px;
+    }
+    footer {
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      background-color: purple;
+      padding: 10px 0;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Welcome to Ren Senpai's Personal Page</h1>
+    <p>Hey there! I'm Ren Senpai, a football enthusiast who enjoys the game and everything related to it.</p>
+    <p>This webpage is a space where I can share my thoughts, experiences, and love for football.</p>
+    <p>Feel free to explore and connect!</p>
+  </div>
+  <footer>
+    <p>&copy; 2024 Ren Senpai</p>
+  </footer>
+</body>
+</html>
